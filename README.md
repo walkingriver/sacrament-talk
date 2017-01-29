@@ -85,6 +85,36 @@ list of definite ways not to start yours, followed by a few really good methods.
   
   ```
 
+### D
+I am grateful for this opportunity...
+
+
+### D c
+I didn't really want to do this...
+
+
+### D q
+It's ironic that I was assigned this topic because...
+
+You're supposed to write talks for other people to learn from, but i ended up learning more myself.
+
+### D ramble
+Great Pumpkin monologue (with pumpkins)
+
+
+Mumble
+
+Stare constantly at paper
+
+Elicit audience feedback
+
+Ask to look up a scripture
+
+Long irrelevant quotes with no additional analysis
+
+End in the name of thy son...
+
+
 ### This is for Me
   - 
 
