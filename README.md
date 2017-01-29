@@ -68,7 +68,7 @@ list of definite ways not to start yours, followed by a few really good methods.
   The Bible Dictionary defines faith as ...
   
   /* consider */
-  When I was eleven years ago, I didn't understand the concept of faith or why 
+  When I was eleven years old, I didn't fully understand the concept of faith or why 
   it was important. Then one day ...
   ```
 
@@ -89,31 +89,33 @@ list of definite ways not to start yours, followed by a few really good methods.
 I am grateful for this opportunity...
 
 
-### D c
+### Don't complain
 I didn't really want to do this...
 
 
-### D q
+### Don't question
 It's ironic that I was assigned this topic because...
 
 You're supposed to write talks for other people to learn from, but i ended up learning more myself.
 
-### D ramble
+### Don't ramble
 Great Pumpkin monologue (with pumpkins)
 
 
+### Speak Clearly and Loudly
 Mumble
 
-Stare constantly at paper
+### Don't Stare constantly at paper
+ Pick a friendly face (or 5)
 
-Elicit audience feedback
+### Never elicit audience feedback
 
-Ask to look up a scripture
+### Don't ask your audience to look up a scripture
 
-Long irrelevant quotes with no additional analysis
+### Don't use Long irrelevant quotes with no additional analysis
 
-End in the name of thy son...
-
+### Be Careful with your ending
+ - Don't End in the name of thy son...
 
 ### This is for Me
   - 
@@ -125,6 +127,11 @@ End in the name of thy son...
   - Start with a story related to your topic
 
 ### Avoid Cliché
+
+### Don't read song lyrics / poems
+
+### Don't use props
+
 
 
 **[Back to top](#table-of-contents)**
