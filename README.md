@@ -34,8 +34,7 @@ _tldr; Use this guide. Attributions are appreciated._
 It's hard to know just how to start a talk. In this section, I have provided a 
 list of definite ways not to start yours, followed by a few really good methods.
 
-### Introductions
-  - Do not introduce yourself
+### Do not introduce yourself
   
   *Why?*: You have already been introduced by the person conducting, and there is no reason to do it again. It only wastes time.
   
@@ -47,8 +46,7 @@ list of definite ways not to start yours, followed by a few really good methods.
   and I've been in the ward for five years now.
   ```
 
-### Do Not Apogolize
-  - Never apologize for not being prepared enough
+### Never apologize for not being prepared enough
 
   *Why?*: You're setting yourself up to fail. Most people won't notice whether or
   not you've prepared adequately. People understand you're nervous and will
@@ -60,8 +58,7 @@ list of definite ways not to start yours, followed by a few really good methods.
   together at the last minute.
   ```
 
-### No Definitions
-  - Do not start with a dictionary definiton of your topic
+### Do not start with a dictionary definiton of your topic
 
   *Why?*: This is the mark of an ill-prepared speaker, and it feels lazy. 
   *Instead*: Start with a scripture or brief personal story that will help set the tone.
@@ -75,8 +72,7 @@ list of definite ways not to start yours, followed by a few really good methods.
   it was important. Then one day ...
   ```
 
-### Announcing Your topic
-  - Do not announce your topic
+### Do not announce your topic
 
   *Why?*: A good talk doesn't need its topic announced. Instead, use your
   opening paragraph to provide the topic without resorting to an explicit statement.
@@ -106,4 +102,4 @@ list of definite ways not to start yours, followed by a few really good methods.
 
 ### Copyright
 
-Copyright (c) 2017 [Michael Callaghan](www.walkingriver.com)
+Copyright &copy; 2017 [Michael Callaghan](www.walkingriver.com)
