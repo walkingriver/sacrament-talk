@@ -1,7 +1,7 @@
 # Sacrament Talks
 
 ## Purpose
-*Opinionated guide to giving sacarament talks by [@WalkingRiver](//twitter.com/walkingriver)*
+*Opinionated guide to giving sacrament talks by [@WalkingRiver](//twitter.com/walkingriver)*
 
 If you are looking for an opinionated guide for ideas, thoughts, 
 and suggestions on how to prepare and delivery a quality LDS Sacrament Meeting talk, you're in the right place.
@@ -28,10 +28,13 @@ _tldr; Use this guide. Attributions are appreciated._
 
 ## Table of Contents
 
-  1. [Avoid Introductions](#avoid-ntroductions)
+  1. [Starting Your Talk](#starting-your-talk)
 
-## Avoid Introductions
+## Starting Your Talk
+It's hard to know just how to start a talk. In this section, I have provided a 
+list of definite ways not to start yours, followed by a few really good methods.
 
+### Introductions
   - Do not introduce yourself
   
   *Why?*: You have already been introduced by the person conducting, and there is no reason to do it again. It only wastes time.
@@ -40,10 +43,65 @@ _tldr; Use this guide. Attributions are appreciated._
   
   ```
   /* avoid */
-  Hi. To those of you who don't know me, my name is Mike, and I've been in the ward for five years now.
+  Hi. To those of you who don't know me, my name is Mike, 
+  and I've been in the ward for five years now.
   ```
 
-**[Back to top](#sacrament-talks)**
+### Do Not Apogolize
+  - Never apologize for not being prepared enough
+
+  *Why?*: You're setting yourself up to fail. Most people won't notice whether or
+  not you've prepared adequately. People understand you're nervous and will
+  often give you the benefit of the doubt. 
+
+  ```
+  /* avoid */
+  I didn't really have a lot of time to prepare, and just threw this talk
+  together at the last minute.
+  ```
+
+### No Definitions
+  - Do not start with a dictionary definiton of your topic
+
+  *Why?*: This is the mark of an ill-prepared speaker, and it feels lazy. 
+  *Instead*: Start with a scripture or brief personal story that will help set the tone.
+
+  ```
+  /* avoid */
+  The Bible Dictionary defines faith as ...
+  
+  /* consider */
+  When I was eleven years ago, I didn't understand the concept of faith or why 
+  it was important. Then one day ...
+  ```
+
+### Announcing Your topic
+  - Do not announce your topic
+
+  *Why?*: A good talk doesn't need its topic announced. Instead, use your
+  opening paragraph to provide the topic without resorting to an explicit statement.
+
+  ```
+  /* avoid */
+  The bishop asked me to give a talk on prayer.
+
+  /* consider */
+  
+  ```
+
+### This is for Me
+  - 
+
+### Avoid Jokes
+
+
+### Stories
+  - Start with a story related to your topic
+
+### Avoid Cliché
+
+
+**[Back to top](#table-of-contents)**
 
 
 ### Copyright
