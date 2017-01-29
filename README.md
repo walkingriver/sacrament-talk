@@ -92,39 +92,39 @@ list of definite ways not to start yours, followed by a few really good methods.
 
 ### Don't complain about your assignment
 
-    *Why?* Complaining about giving the talk is a lousy way to start. It sets the wrong tone,
-    and tells everyone in the audience that you don't want to be there, and probably 
-    didn't prepare well. 
+  *Why?* Complaining about giving the talk is a lousy way to start. It sets the wrong tone,
+  and tells everyone in the audience that you don't want to be there, and probably 
+  didn't prepare well. 
 
-    ```
-    /* avoid */
-    I didn't really want to do this...
-    ```
+  ```
+  /* avoid */
+  I didn't really want to do this...
+  ```
 
 ### Don't pretend to want to be there if you are not
 
-    *Why?* Most people will see through this weak attempt at humor.
+  *Why?* Most people will see through this weak attempt at humor.
 
-    ```
-    /* avoid */
-    I am grateful for this opportunity...
-    ```
+  ```
+  /* avoid */
+  I am grateful for this opportunity...
+  ```
 
 ### Don't question your assignment
     
-    *Why?* Probably everyone who has evern spoken in front an audience has internally questioned their 
-    fitness for the assigned topic. Explicitly questioning during your talk sets up an expectation of
-    failure in your listeners. 
-    
-    *Instead:* Prepare your talk to ensure that the things you say are true and relevant.
-    
-    ```
-    /* avoid */
-    It's ironic that I was assigned this topic because I'm not very knowledgeable...
-    
-    /* avoid */
-    You're supposed to write talks for other people to learn from, but i ended up learning more myself.
-    ```
+  *Why?* Probably everyone who has evern spoken in front an audience has internally questioned their 
+  fitness for the assigned topic. Explicitly questioning during your talk sets up an expectation of
+  failure in your listeners. 
+
+  *Instead:* Prepare your talk to ensure that the things you say are true and relevant.
+
+  ```
+  /* avoid */
+  It's ironic that I was assigned this topic because I'm not very knowledgeable...
+
+  /* avoid */
+  You're supposed to write talks for other people to learn from, but i ended up learning more myself.
+  ```
 
 ## Effectively Delivering Your Talk
 
