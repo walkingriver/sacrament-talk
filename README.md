@@ -197,25 +197,78 @@ audiences.
 will pull your audience into your talk emotionally, and effectively
 communicate your topic.
 
-### Avoid Cliché
+### Avoid Overused Stories
+
+*Why?* Many stories have been told so many times, that people are tired
+of hearing them. Rather than bolster your talk, telling an oft-told
+story could cause people to tune out. 
+
+*Examples*:
+  - The starfish washed up on the beach
+  - Footprints in the sand
 
 ### Don't Read Song Lyrics or Poems
 
-### Don't use props
+*Why?* Reading song lyrics is corny. Don't do it. As for poetry,
+very few people can do this well. Unless you are absolutely sure about
+your abilities, don't try it.
+
+*Exception*: Using a single line from a song to make a point may be acceptable
+(e.g., "As it says in 'The Iron Rod,' 'The word of God will safely guide us through.").
+
+*Consider*: If you insist on using poetry, make sure to practice your
+recitation to a trusted person who will give you honest and constructive feedback.
+
+### Don't Use Props or Visual Aids
+
+*Why?* This is counsel we have received from church leadership. A 
+sacrament talk should stand on its own. It isn't Show & Tell.
+Leave your trophies, candles, and pumpkins for a lesson.
 
 ## Wrapping Up
 
+You've given the perfect talk, with great stories and thoughtful insights.
+Now you need to finish.
+
 ### Restate Your Topic
+
+*Why?* Up to this point,
+if you've done your job well, everyone knows what the topic was.
+Now is the time to be explicit about it. 
+
+*Example*
+
+```
+I've spoken to you a lot about prayer and why it's important...
+```
 
 ### Summarize Your Talk
 
+*Why?* People learn through repetition. You've probably made several 
+pertinent points throughout your talk. Summarize them bullet-point style.
+
+*Example*
+
+```
+Prayer can help you learn God's will in your life.
+It can bring a feeling of peace when you're troubled.
+...
+```
+
 ### Bear Your Testimony
 
-### Closing
- - Don't End in the name of thy son...
+*Why?* Ending with your tesimony is a powerful way to end, and serves
+to reinforce your entire talk.
 
+*Consider*: Bear your testimony about the truthfulness of your words, the
+restored gospel, and the church.
 
+### Close in the Name of the Savior
 
+*Why?* It is appropriate and expected that you will close your talk in the
+name of the Savior. However, avoid using the phrase "Thy Son" when closing. 
+You are giving your talk to the congregation, not the Father. Thus, when you
+close, you are still talking to them. 
 
 **[Back to top](#table-of-contents)**
 
