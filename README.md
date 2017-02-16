@@ -63,6 +63,7 @@ list of definite ways not to start yours, followed by a few really good methods.
 ### Do not start with a dictionary definiton of your topic
 
   *Why?* This is the mark of an ill-prepared speaker, and it feels lazy. 
+
   *Instead:* Start with a scripture or brief personal story that will help set the tone.
 
   ```
@@ -77,6 +78,7 @@ list of definite ways not to start yours, followed by a few really good methods.
 ### Do not announce your topic
 
   *Why?* A good talk doesn't need its topic announced. 
+
   *Instead:* Use your opening paragraph to provide the topic without resorting to an explicit statement.
 
   ```
@@ -128,40 +130,88 @@ list of definite ways not to start yours, followed by a few really good methods.
 
 ## Effectively Delivering Your Talk
 
-### Don't ramble
-Great Pumpkin monologue (with pumpkins)
+### Stay on Topic
 
+ *Why?* This is also known as a "Great Pumpkin monologue" from the Peanuts cartoon. Linus is speaking on a specific topic, and
+suddenly announces, "But first, a few words on the Great Pumpkin." It's important that you avoid rambling and that you
+stay on topic. 
 
-### Speak Clearly and Loudly
-Mumble
+### Speak Slowly, Clearly and Loudly
 
-### Don't Stare constantly at paper
- Pick a friendly face (or 5)
+ *Why?* Be careful not to mumble. Many people when speaking in public get nervous. This is natural. When that happens, they
+often start speaking too quickly and sometimes mumble. When you feel yourself starting to get nervous, pause at the
+end of a paragraph, take a deep breath, and restart the next paragraph slowly and clearly.
 
-### Never elicit audience feedback
+Another common mistake is to speak too softly. You don't want to shout, but should be loud enough that people can 
+hear you anywhere in the room. 
 
-### Don't ask your audience to look up a scripture
+If you are using a PA system, as is common in every chapel, try to position the microphone to be approximately 10-12
+inches from your mouth. Speak up, but let those conducting the meeting worry about the volume. 
 
-### Don't use long irrelevant quotes with no additional analysis
+### My Eye Contact
 
-### Stories
-  - Start with a story related to your topic
+ *Why?* It's important to make a connection with your audience. You do that by making eye contact with them. As you begin to
+speak, look around the room and try to pick out a friendly face (or 5). As you deliver your talk, try to move your
+eyes between your paper and those people you've chosen.
+
+An alternative to this strategy is to look at the back of the room, just above the heads of those in the very back.
+To most people in the audience, this will appear that you are making eye contact with those behind them. It is not
+as desirable, but may help if you have a hard time finding enough friendly faces.
+
+### Never Ask for Audience Feedback
+
+ *Why?* A common mistake many public speakers make is to ask too many questions that require the audience to respond, either
+physically (raised hands) or verbally. In sacrament meetings, it is almost always inappropriate to ask your listeners
+to respond to questions (or greetings). 
+
+ *Exception*: In a classroom or 
+professional setting, asking the audience to raise their hands once is acceptable. For example, asking 
+the listeners who is familiar with the topic is common. Asking a second question is sometimes warranted as a follow-up,
+but three times in a single talk is overkill, and audiences don't care for it.
+
+### Don't Ask Your Audience to Look Up a Scripture
+
+ *Why?* This is a delaying tactic. Many speakers who don't have enough material will ask listeners to turn to a specific
+scripture before they read it. We have been counseled by church leaders not to do this.
+
+### Don't Use Long, Irrelevant Quotes with No Additional Analysis
+
+*Why?* Reading relevant scriptures or quotes can add a lot of power
+and authority to your talk. Some people make the mistake of using really
+long scriptures or quotes, and never bridge the gap with their audiences as to 
+its relevance. 
+
+*Do*: If you read a quote or scripture, finish with a sentence that ties
+it back to your topic.
+
+### Use Stories
+  
+*Why?* Humans are story-telling creatures. Everyone loves a good story,
+whether it's delivered on paper, in a movie, a TV show, or verbally. 
+The best talks use a lot of stories to get their points across to their
+audiences. 
+
+*Avoid*: Don't use stories that are not pertinent to your topic.
+
+*Consider*: Start your talk with a story related to your topic. this
+will pull your audience into your talk emotionally, and effectively
+communicate your topic.
 
 ### Avoid Cliché
 
-### Don't read song lyrics / poems
+### Don't Read Song Lyrics or Poems
 
 ### Don't use props
 
 ## Wrapping Up
 
-### Restate your topic
+### Restate Your Topic
 
-### Summarize your talk
+### Summarize Your Talk
 
-### Bear your testimony
+### Bear Your Testimony
 
-### Be Careful with your ending
+### Closing
  - Don't End in the name of thy son...
 
 
