@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+  1. [Start with a Theme Statement](#start-with-a-theme-statement)
   1. [Stay on topic](#stay-on-topic)
   1. [Speak slowly, clearly and loudly](#speak-slowly-clearly-and-loudly)
   1. [Make eye contact](#make-eye-contact)
@@ -12,6 +13,15 @@
   1. [Avoid overused stories](#avoid-overused-stories)
   1. [Do not read song lyrics or poems](#do-not-read-song-lyrics-or-poems)
   1. [Do not use props or visual aids](#do-not-use-props-or-visual-aids)
+  1. [Finish in the time assigned](#finish-in-the-time-assigned)
+  1. [Practice your talk](#practice-your-talk)
+
+### Start with a Theme Statement
+
+*Why?* A theme statement is a condensed summary of your entire talk. If you look the printed version
+of General Conference talks, each one contains a title a brief description of the talk. The brief
+description is the Every scripture, quote, and story should all relate
+back to your theme statement.
 
 ### Stay on topic
 
@@ -107,6 +117,19 @@ recitation to a trusted person who will give you honest and constructive feedbac
 *Why?* This is counsel we have received from church leadership. A 
 sacrament talk should stand on its own. It isn't Show & Tell.
 Leave your trophies, candles, and pumpkins for a lesson.
+
+### Finish in the time assigned
+
+*Why?* It's simple courtesy. If you are assigned to give a 10-minute talk,
+taking longer cuts into the time of the speakers following you. Likewise,
+going shorter leaves extra time that someone else may have to fill.
+
+### Practice your talk
+
+*Why?* You never know how your talk will sound, or how long it will take,
+until you've practiced. Practice delivering your talk aloud, and time
+yourself. If you can, deliver it to someone you can trust and who will
+give you honest and constructive feedback.
 
 ### [Next - Wrapping Up](concluding.md) | [Previous - Starting Your Talk](starting.md) | [Back to Main](README.md)
 **[Back to top](#table-of-contents)**

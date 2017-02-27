@@ -13,7 +13,8 @@ Now you need to finish.
 
 *Why?* Up to this point,
 if you've done your job well, everyone knows what the topic was.
-Now is the time to be explicit about it. 
+Now is the time to be explicit about it. This would be a good
+time to read your theme statement.
 
 *Example*
 
